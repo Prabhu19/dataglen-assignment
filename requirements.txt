@@ -1,2 +1,2 @@
-configparser
-kafka-python
+pip install configparser
+pip install kafka-python

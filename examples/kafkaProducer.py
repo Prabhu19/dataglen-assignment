@@ -6,8 +6,9 @@
 
 # Append to python path
 import sys
-sys.path.append('../')
-
+import os
+sys.path.append(os.path.dirname(os.path.dirname(__file__)))
+sys.path.append("../")
 ########## please change this as required...
 
 # this package is used for sending messages to Kafka broker.

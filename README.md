@@ -1,3 +1,11 @@
+# Requirements 
+
+Please do the below pip install before executing this code. 
+
+pip install configparser
+pip install kafka-python
+
+
 # dataglen-assignment
 
 Write a Spark Structured Streaming app to extract JSON messages from kafka broker and aggregate them over a window of 2 mins.

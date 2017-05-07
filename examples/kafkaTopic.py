@@ -6,8 +6,9 @@
 ###########################################################################################################
 # needed for executing commands
 import sys
-sys.path.append('../')
-
+import os
+sys.path.append(os.path.dirname(os.path.dirname(__file__)))
+sys.path.append("../")
 # import the functions defined in the function kit.
 from functionkit import utils as ut
 
