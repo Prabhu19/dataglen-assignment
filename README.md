@@ -1,3 +1,4 @@
+
 # Requirements 
 
 Please do the below pip install before executing this code. 
@@ -5,6 +6,14 @@ Please do the below pip install before executing this code.
 pip install configparser
 pip install kafka-python
 
+# Execution Steps 
+
+Please follow the below documentation in the docs folder 
+
+1) Kafka Steps.docx 
+2) Spark Steps.docx 
+
+Overall Documentation in Assignement Documentation.docx
 
 # dataglen-assignment
 
