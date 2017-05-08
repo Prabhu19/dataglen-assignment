@@ -3,8 +3,8 @@
 
 Please do the below pip install before executing this code. 
 
-pip install configparser
-pip install kafka-python
+1) pip install configparser
+2) pip install kafka-python
 
 # Execution Steps 
 
