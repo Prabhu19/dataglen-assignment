@@ -15,6 +15,8 @@ Please follow the below documentation in the docs folder
 
 Overall Documentation in Assignement Documentation.docx
 
+The code was tested on Spark 2.0.0 and Python 2.7.5
+
 # dataglen-assignment
 
 Write a Spark Structured Streaming app to extract JSON messages from kafka broker and aggregate them over a window of 2 mins.
